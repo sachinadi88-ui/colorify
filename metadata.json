@@ -1,0 +1,7 @@
+{
+  "name": "Colorify - AI Coloring Page Maker",
+  "description": "Transform any photo into a clean, black-and-white coloring page using AI. Perfect for kids, artists, and relaxation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
